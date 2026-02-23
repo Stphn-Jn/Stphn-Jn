@@ -5,7 +5,7 @@
 > "The one who prefers the smell of solder to the sight of syntax errors, but still knows how to bridge the gap between silicon and software."
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/master/Hardware.gif" width="450" alt="Hardware Circuit Animation">
+  <img src="https://media.tenor.com/tHqgQzXoXp8AAAAC/circuit-circuit-board.gif" width="450" alt="Hardware Circuit Animation">
 </div>
 
 ---
@@ -13,14 +13,18 @@
 ### 🧰 Tech Stack & Tools
 
 #### 🔌 Hardware & Low-Level
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Orange Pi](https://img.shields.io/badge/Orange%20Pi-FF6600?style=for-the-badge&logo=orange-pi&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=webassembly&logoColor=white)
-![IC & EEPROM](https://img.shields.io/badge/IC%20%26%20EEPROMs-333333?style=for-the-badge&logo=microchip&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="45" title="Arduino" />
+&nbsp;
+<img src="https://img.icons8.com/color/48/raspberry-pi.png" width="45" title="Orange Pi / Single Board Computers" />
+&nbsp;
+<img src="https://img.icons8.com/color/48/console.png" width="45" title="Assembly" />
+&nbsp;
+<img src="https://img.icons8.com/color/48/microchip.png" width="45" title="IC & EEPROM" />
 
 #### 💻 Software & Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" title="Python" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" title="Java" />
 
 ---
 
@@ -28,9 +32,3 @@
 * **Hardware First:** Designing circuits and working with embedded systems.
 * **Mid-Range Software:** Bridging hardware with Python, Java, and Assembly.
 * **Problem Solving:** Debugging both the code and the breadboard.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stphn-Jn&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
