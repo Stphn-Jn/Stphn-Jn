@@ -4,13 +4,7 @@
 
 Welcome to my digital workbench. I am passionate about low-level architecture, building tangible embedded systems, and making hardware and software talk to each other seamlessly.
 
-> "The one who prefers the smell of solder to the sight of syntax errors, but still knows how to bridge the gap between silicon and software."
-
-<div align="center">
-  <img src="https://media.tenor.com/bK1SNEkGAQAAAAAC/matrix-code.gif" width="550" alt="Matrix Digital Rain Animation">
-</div>
-
----
+ >"The one who prefers the smell of solder to the sight of syntax errors, but still knows how to bridge the gap between silicon and software."
 
 ### Tech Stack & Tools
 
