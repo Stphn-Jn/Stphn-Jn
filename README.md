@@ -1,5 +1,3 @@
-# Hi there, I'm Stephen
-
 ### Hardware Enthusiast | Computer Engineering
 
 Welcome to my digital workbench. I am passionate about low-level architecture, building tangible embedded systems, and making hardware and software talk to each other seamlessly.
