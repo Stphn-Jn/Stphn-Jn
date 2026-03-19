@@ -28,3 +28,8 @@ Welcome to my digital workbench. I am passionate about low-level architecture, b
 * Hardware First: Designing circuits and working with embedded systems.
 * Mid-Range Software: Bridging hardware with Python, Java, and Assembly.
 * Problem Solving: Debugging both the code and the breadboard.
+
+---
+
+### GitHub Activity
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Stphn-Jn&show_icons=true&theme=dark)
