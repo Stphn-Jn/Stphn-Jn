@@ -32,4 +32,6 @@ Welcome to my digital workbench. I am passionate about low-level architecture, b
 ---
 
 ### GitHub Activity
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Stphn-Jn&show_icons=true&theme=dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Stphn-Jn&theme=react-dark)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Stphn-Jn&show_icons=true&theme=react-dark)
